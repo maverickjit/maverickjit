@@ -20,7 +20,7 @@ I’m a B.Tech CSE student at KIIT Bhubaneswar with a strong interest in buildin
   <li><strong>Languages:</strong> C++, C#, Java, Python, JavaScript, SQL</li>
   <li><strong>Frameworks:</strong> ASP.NET MVC, Entity Framework, React, Flask, FastAPI</li>
   <li><strong>Frontend:</strong> HTML5, CSS3, Tailwind CSS, Chart.js</li>
-  <li><strong>Databases:</strong> PostgreSQL, SQL Server</li>
+ 
   <li><strong>Tools:</strong> Visual Studio, Git, GitHub, NuGet, IIS Express, Postman, Docker</li>
   <li><strong>Libraries:</strong> pandas, NumPy, Matplotlib, Scikit-learn</li>
   <li><strong>Cloud:</strong> AWS (Foundations, Architecture)</li>
@@ -28,18 +28,6 @@ I’m a B.Tech CSE student at KIIT Bhubaneswar with a strong interest in buildin
 
 ---
 
-<h2>📚 Education</h2>
-
-<ul style="font-size:16px;">
-  <li><strong>Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar</strong><br>
-    B.Tech in Computer Science and Engineering, Sept 2022 – July 2026<br>
-    CGPA: 8.41
-  </li>
-  <li><strong>Army Public School, Chandimandir, Haryana</strong><br>
-    Class XII – 88.88% (2022)<br>
-    Class X – 91.8% (2020)
-  </li>
-</ul>
 
 ---
 
