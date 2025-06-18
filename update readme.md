@@ -29,8 +29,6 @@ I’m a B.Tech CSE student at KIIT Bhubaneswar with a strong interest in buildin
 ---
 
 
----
-
 <h2>🧪 Projects</h2>
 
 <ul style="font-size:16px;">
